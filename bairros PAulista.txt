@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": {"id": "260001", "name": "Centro", "description": "Centro de Paulista"}, "geometry": { "type": "Polygon", "coordinates": [[[-34.8659154157, -7.8907057399], [-34.867295, -7.892900], [-34.868, -7.8895], [-34.870, -7.889], [-34.865, -7.887], [-34.8659154157, -7.8907057399]]] }},
+    { "type": "Feature", "properties": {"id": "260002", "name": "Jardim Paulista", "description": "Jardim Paulista"}, "geometry": { "type": "Polygon", "coordinates": [[[-34.873, -7.939], [-34.874, -7.940], [-34.875, -7.938], [-34.872, -7.937], [-34.873, -7.939]]] }},
+    { "type": "Feature", "properties": {"id": "260003", "name": "Paratibe", "description": "Paratibe"}, "geometry": { "type": "Polygon", "coordinates": [[[-34.868, -7.937], [-34.869, -7.938], [-34.870, -7.936], [-34.867, -7.935], [-34.868, -7.937]]] }},
+    { "type": "Feature", "properties": {"id": "260004", "name": "Itaipuaçu", "description": "Itaipuaçu"}, "geometry": { "type": "Polygon", "coordinates": [[[-34.861, -7.936], [-34.862, -7.937], [-34.863, -7.935], [-34.860, -7.934], [-34.861, -7.936]]] }},
+    { "type": "Feature", "properties": {"id": "260005", "name": "Mirueira", "description": "Mirueira"}, "geometry": { "type": "Polygon", "coordinates": [[[-34.856, -7.934], [-34.857, -7.935], [-34.858, -7.933], [-34.855, -7.932], [-34.856, -7.934]]] }},
+    { "type": "Feature", "properties": {"id": "260006", "name": "Maranguape II", "description": "Maranguape II"}, "geometry": { "type": "Polygon", "coordinates": [[[-34.868, -7.930], [-34.869, -7.931], [-34.870, -7.929], [-34.867, -7.928], [-34.868, -7.930]]] }},
+    { "type": "Feature", "properties": {"id": "260007", "name": "Paulista Norte", "description": "Paulista Norte"}, "geometry": { "type": "Polygon", "coordinates": [[[-34.879, -7.944], [-34.880, -7.945], [-34.881, -7.943], [-34.878, -7.942], [-34.879, -7.944]]] }},
+    { "type": "Feature", "properties": {"id": "260008", "name": "Vila Torres Galvão", "description": "Vila Torres Galvão"}, "geometry": { "type": "Polygon", "coordinates": [[[-34.870, -7.931], [-34.871, -7.932], [-34.872, -7.930], [-34.869, -7.929], [-34.870, -7.931]]] }},
+    { "type": "Feature", "properties": {"id": "260009", "name": "Alto São Miguel", "description": "Alto São Miguel"}, "geometry": { "type": "Polygon", "coordinates": [[[-34.868, -7.927], [-34.869, -7.928], [-34.870, -7.926], [-34.867, -7.925], [-34.868, -7.927]]] }},
+    { "type": "Feature", "properties": {"id": "260010", "name": "Engenho Maranguape", "description": "Engenho Maranguape"}, "geometry": { "type": "Polygon", "coordinates": [[[-34.863, -7.934], [-34.864, -7.935], [-34.865, -7.933], [-34.862, -7.932], [-34.863, -7.934]]] }}
+  ]
+}
